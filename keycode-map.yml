@@ -1,0 +1,62 @@
+- key: "["
+  code:
+    name: open_bracket
+- key: "("
+  code:
+    modifier: shift
+    name: "9"
+- key: ")"
+  code:
+    modifier: shift
+    name: "0"
+- key: "{"
+  code:
+    modifier: shift
+    name: open_bracket
+- key: "$"
+  code:
+    modifier: shift
+    name: "4"
+- key: "<"
+  code:
+    modifier: shift
+    name: comma
+- key: "#"
+  code:
+    modifier: shift
+    name: "3"
+- key: "]"
+  code:
+    name: close_bracket
+- key: "}"
+  code:
+    modifier: shift
+    name: close_bracket
+- key: ">"
+  code:
+    modifier: shift
+    name: period
+- key: "!"
+  code:
+    modifier: shift
+    name: "1"
+- key: "&"
+  code:
+    modifier: shift
+    name: "7"
+- key: "*"
+  code:
+    modifier: shift
+    name: "8"
+- key: "@"
+  code:
+    modifier: shift
+    name: "2"
+- key: "^"
+  code:
+    modifier: shift
+    name: "6"
+- key: "%"
+  code:
+    modifier: shift
+    name: "5"
